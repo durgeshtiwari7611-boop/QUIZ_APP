@@ -1,0 +1,130 @@
+{
+  "General Knowledge": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": 2,
+      "explanation": "Paris is the capital of France."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": 1,
+      "explanation": "Mars is called the Red Planet due to its reddish appearance."
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": 1,
+      "explanation": "William Shakespeare wrote Romeo and Juliet."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": 3,
+      "explanation": "The Pacific Ocean is the largest ocean."
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "explanation": "There are 7 continents."
+    }
+  ],
+  "Science": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "answer": 0,
+      "explanation": "H2O is the chemical formula for water."
+    },
+    {
+      "question": "What force keeps planets in orbit around the sun?",
+      "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
+      "answer": 1,
+      "explanation": "Gravity is the force that keeps planets in orbit."
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+      "answer": 2,
+      "explanation": "Mitochondria are known as the powerhouse of the cell."
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": 2,
+      "explanation": "Plants absorb Carbon Dioxide for photosynthesis."
+    },
+    {
+      "question": "What is the speed of light approximately?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "answer": 0,
+      "explanation": "The speed of light is approximately 300,000 km/s."
+    }
+  ],
+  "Python Programming": [
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "function", "define"],
+      "answer": 1,
+      "explanation": "The 'def' keyword is used to define a function."
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "9", "5"],
+      "answer": 1,
+      "explanation": "2 raised to the power 3 is 8."
+    },
+    {
+      "question": "Which data type is mutable in Python?",
+      "options": ["Tuple", "String", "List", "Integer"],
+      "answer": 2,
+      "explanation": "Lists are mutable in Python."
+    },
+    {
+      "question": "What does the 'len()' function do?",
+      "options": ["Returns the length of an object", "Deletes an item", "Sorts a list", "Converts to string"],
+      "answer": 0,
+      "explanation": "len() returns the number of items in an object."
+    },
+    {
+      "question": "Which of the following is used to handle exceptions?",
+      "options": ["try-except", "if-else", "for-while", "switch-case"],
+      "answer": 0,
+      "explanation": "try-except is used for exception handling in Python."
+    }
+  ],
+  "Mathematics": [
+    {
+      "question": "What is the value of π (pi) approximately?",
+      "options": ["3.14", "2.71", "1.41", "1.73"],
+      "answer": 0,
+      "explanation": "π is approximately 3.14."
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["20", "30", "25", "35"],
+      "answer": 1,
+      "explanation": "15% of 200 = 30."
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "explanation": "√144 = 12."
+    },
+    {
+      "question": "If a triangle has angles 40°, 60°, what is the third angle?",
+      "options": ["70°", "80°", "90°", "100°"],
+      "answer": 1,
+      "explanation": "Sum of angles in a triangle is 180°. 180 - 40 - 60 = 80°."
+    },
+    {
+      "question": "What is 7 × 8?",
+      "options": ["54", "56", "58", "64"],
+      "answer": 1,
+      "explanation": "7 × 8 = 56."
+    }
+  ]
+}
